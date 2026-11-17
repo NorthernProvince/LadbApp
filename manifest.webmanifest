@@ -1,0 +1,16 @@
+{
+  "name": "Lavevars Lodge",
+  "short_name": "Lavevars",
+  "description": "Check-ins, rooms, prices and daily takings for Lavevars Lodge, Kasama.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0A3032",
+  "theme_color": "#0A3032",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
